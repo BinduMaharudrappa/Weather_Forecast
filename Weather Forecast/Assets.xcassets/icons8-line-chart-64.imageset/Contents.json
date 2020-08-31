@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "icons8-line-chart-64.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
